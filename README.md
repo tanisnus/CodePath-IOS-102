@@ -5,7 +5,6 @@ App Walk-though
 https://i.imgur.com/1GQhiI0.gif
 
 
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 Required Features
 - [x] App displays an image of a school's logo
