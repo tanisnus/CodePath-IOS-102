@@ -1,7 +1,7 @@
 App Description: Introduce Yourself App
 
 App Walk-though 
-
+https://i.imgur.com/1GQhiI0.gif
 
 Required Features
 
